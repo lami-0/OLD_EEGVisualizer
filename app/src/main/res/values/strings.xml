@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EEG Visualizer</string>
+
+    <string name="refresh">REFRESH</string>
+    <string name="start">START</string>
+    <string name="pause">PAUSE</string>
+    <string name="disconnect">DISCONNECT</string>
+    <string name="result">RESULT</string>
+    <string name="value">VALUE</string>
+    <string name="time">TIME</string>
+    <string name="back">BACK</string>
+    <string name="more">MORE</string>
+</resources>
